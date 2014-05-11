@@ -1,0 +1,21 @@
+qy7ttvj7vgacm309
+nizuizhengui。
+快速排序：
+int cmp(const void* a,const void* b)  
+{  
+  return *(int*)a-*(int*)b;  
+}
+qsort(a+1,n,sizeof(a[0]),cmp); 
+
+#define max(a,b)(((a)>(b))?(a):(b))
+
+
+23001428659632334275
+
+2013年12月21日13:18:51 气我1次。
+zzzzz1130540 123456 酷狗账号密码
+063508038641
+lrt000000
+v5j1-qwjm-slf4
+wangkai!@#$%
+wb308308qq
